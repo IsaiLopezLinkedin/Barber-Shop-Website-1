@@ -1,0 +1,14 @@
+
+
+( START OF THE PROJECT )
+
+we insert the title to the HTML structure and connect the CSS
+
+------------------------------------------------------------------
+
+( INICIO DEL PROYECTO )
+
+insertamos el titulo a la estructura HTML y conectar el CSS
+
+------------------------------------------------------------------
+
