@@ -1,8 +1,8 @@
 
 
-We add a logo and color to the background image
+we put a title along with a phrase, we put it in the center and we put style to the mentioned texts
 
----------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
-Agregamos un logo y color a la imagen de fondo
+le pusimos un titulo junto con una frase, lo ponemos en el centro y le ponemos estilo a los textos mencionados
 
