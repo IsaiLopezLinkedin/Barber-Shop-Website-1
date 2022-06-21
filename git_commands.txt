@@ -1,0 +1,10 @@
+
+ ( the git commands I have used )  
+
+  * git init
+  * git status
+  * git add .
+  * git commit
+  * git log
+
+
