@@ -1,8 +1,8 @@
 
 
-we put a title along with a phrase, we put it in the center and we put style to the mentioned texts
+We use Google Fonts to improve the text style of the title and phrase
 
------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
-le pusimos un titulo junto con una frase, lo ponemos en el centro y le ponemos estilo a los textos mencionados
+Utilizamos Google Fonts para mejorar el estilo de texto del titulo y frase
 
