@@ -1,7 +1,7 @@
 
 
-we introduce the menu section, place it at the top right and add some styling
+Improve the Menu icon
 
 --------------------------------------------------
 
-Introducimos la seccion de menu, lo colocamos en la parte superior derecha y le agregamos algo de estilo
+Mejore el icono de Menu
