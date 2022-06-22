@@ -1,7 +1,7 @@
 
 
-We started uploading our work to github
+we introduce the menu section, place it at the top right and add some styling
 
 --------------------------------------------------
 
-Empezamos a subir nuestro trabajo a github
+Introducimos la seccion de menu, lo colocamos en la parte superior derecha y le agregamos algo de estilo
