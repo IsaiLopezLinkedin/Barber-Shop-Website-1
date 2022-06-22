@@ -1,8 +1,8 @@
 
 
-We create 2 buttons and give it a simple style
+We gave a better presentation to the 2 buttons
 
-------------------------------------------------------
+-------------------------------------------------------
 
-Creamos 2 botones y le damos un estilo sencillo
+Le dimos una mejor presentacion a los 2 botones
 

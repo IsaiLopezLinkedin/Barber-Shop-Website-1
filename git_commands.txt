@@ -7,4 +7,5 @@
   * git commit
   * git log
   * git commit -m " "
-
+  * git commit -am " "
+  
