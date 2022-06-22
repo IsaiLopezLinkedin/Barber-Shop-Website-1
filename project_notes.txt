@@ -1,8 +1,8 @@
 
 
-We use Google Fonts to improve the text style of the title and phrase
+We create 2 buttons and give it a simple style
 
----------------------------------------------------------------------------
+------------------------------------------------------
 
-Utilizamos Google Fonts para mejorar el estilo de texto del titulo y frase
+Creamos 2 botones y le damos un estilo sencillo
 
