@@ -1,8 +1,7 @@
 
 
-We gave a better presentation to the 2 buttons
+We started uploading our work to github
 
--------------------------------------------------------
+--------------------------------------------------
 
-Le dimos una mejor presentacion a los 2 botones
-
+Empezamos a subir nuestro trabajo a github
