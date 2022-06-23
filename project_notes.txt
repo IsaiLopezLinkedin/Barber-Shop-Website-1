@@ -1,7 +1,7 @@
 
 
-I added a ( meta ) at the top of the HTML structure
+We adjust the banner for the different dimensions of smartphones
 
 --------------------------------------------------
 
-agregué un ( meta ) en la parte de arriba de la estructura HTML
+Ajustamos el banner para las diferentes dimensiones de smartphones
