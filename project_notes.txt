@@ -1,7 +1,7 @@
 
 
-We adjust the banner for the different dimensions of smartphones
+We added the Features section and styled it
 
 --------------------------------------------------
 
-Ajustamos el banner para las diferentes dimensiones de smartphones
+adherimos la sección de Caracteristicas y le dimos estilo
