@@ -1,7 +1,7 @@
 
 
-We added the Features section and styled it
+We placed an image on the right and gave it some color and style
 
 --------------------------------------------------
 
-adherimos la sección de Caracteristicas y le dimos estilo
+Colocamos una imagen a la derecha y le dimos algo de color y estilo
