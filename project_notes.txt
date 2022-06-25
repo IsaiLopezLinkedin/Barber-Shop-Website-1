@@ -1,7 +1,7 @@
 
 
-Fixed the Features section for smartphone dimensions
+added images, background color, transitions and also some descriptions
 
---------------------------------------------------
+------------------------------------------------------------------------------------
 
-Arreglamos la sección de Características para las dimensiones de los smartphones
+agregué imágenes, color de fondo, transiciones y también algunas descripciones
