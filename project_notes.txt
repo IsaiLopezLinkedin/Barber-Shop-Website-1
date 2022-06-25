@@ -1,7 +1,7 @@
 
 
-added images, background color, transitions and also some descriptions
+
 
 ------------------------------------------------------------------------------------
 
-agregué imágenes, color de fondo, transiciones y también algunas descripciones
+
