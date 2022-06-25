@@ -1,7 +1,7 @@
 
 
-We added the features with their icons and styled them
+Fixed the Features section for smartphone dimensions
 
 --------------------------------------------------
 
-Agregamos las características con sus iconos y  les dimos estilo
+Arreglamos la sección de Características para las dimensiones de los smartphones
