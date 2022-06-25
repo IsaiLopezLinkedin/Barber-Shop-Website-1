@@ -1,7 +1,7 @@
 
 
-We placed an image on the right and gave it some color and style
+We added the features with their icons and styled them
 
 --------------------------------------------------
 
-Colocamos una imagen a la derecha y le dimos algo de color y estilo
+Agregamos las características con sus iconos y  les dimos estilo
